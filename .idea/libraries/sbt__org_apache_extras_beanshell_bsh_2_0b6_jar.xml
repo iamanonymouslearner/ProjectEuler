@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.apache-extras.beanshell:bsh:2.0b6:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache-extras.beanshell/bsh/jars/bsh-2.0b6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache-extras.beanshell/bsh/srcs/bsh-2.0b6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
