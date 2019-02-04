@@ -1,4 +1,4 @@
-object PE0016PowerDigitSum extends App
+object PE016PowerDigitSum extends App
 {
   def PowerdigitSum(exponent: Int): Int =
   {

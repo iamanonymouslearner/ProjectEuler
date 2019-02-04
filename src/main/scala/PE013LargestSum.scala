@@ -1,4 +1,4 @@
-object LargestSum13
+object PE013LargestSum
 {
   def largestSum(): String =
   {

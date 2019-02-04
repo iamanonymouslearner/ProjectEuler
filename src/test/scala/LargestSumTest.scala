@@ -5,7 +5,7 @@ class LargestSumTest extends FunSuite
   test("Pass numbers as a string")
   {
 
-    assert(LargestSum13.largestSum() == "5537376230")
+    assert(PE013LargestSum.largestSum() == "5537376230")
   }
 
 }

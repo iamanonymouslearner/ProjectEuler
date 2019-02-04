@@ -1,4 +1,4 @@
-object MultiplesOf3and5 extends App
+object PE001MultiplesOf3and5 extends App
 {
   def multiplesOf3and5(range : Int) : Int =
   {
